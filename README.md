@@ -107,6 +107,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ## 🛠️ Tools & Utilities
 
 ### Online Tools
+- [TubePrompter](https://tubeprompter.com) - Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
 
