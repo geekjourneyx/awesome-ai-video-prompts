@@ -107,6 +107,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ## 🛠️ Tools & Utilities
 
 ### Online Tools
+- [promptvv](https://promptvv.com) - Reverse-engineer any video into structured AI video prompts (events, shots, camera moves, performance, dialogue), ready to paste into Jimeng, Seedance, or Kling to recreate it.
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
 
