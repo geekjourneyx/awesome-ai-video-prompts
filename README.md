@@ -109,6 +109,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Online Tools
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
+- [Hailuo 2 Video](https://hailuo2.video/) - Browser-based image-to-video generator built around the Hailuo model. Takes a first-frame image and prompt, returns a short cinematic video clip.
 
 ### Browser Extensions
 - [AI Video Assistant](https://example.com/browser-extension)
