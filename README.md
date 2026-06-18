@@ -107,6 +107,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ## 🛠️ Tools & Utilities
 
 ### Online Tools
+- [Seedream4 Video](https://seedream4.video) - Multi-model AI image generator (Seedream 4.0 / 4.5 / 5.0 / 5.0 Lite) + Kling-based image-to-video in one browser. Free credits to try.
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
 
