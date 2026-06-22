@@ -109,6 +109,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Online Tools
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
+- **[Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill)** — bilingual EN/中文 skill that rewrites a rough idea or over-specified shot script into a model-ready text-to-video prompt (Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu). Judgment-first; one SKILL.md; MIT.
 
 ### Browser Extensions
 - [AI Video Assistant](https://example.com/browser-extension)
