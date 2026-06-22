@@ -109,6 +109,7 @@ AI视频提示词是用于指导AI模型生成高质量视频内容的文本指�
 ### 在线工具
 - [提示词优化器](https://example.com/prompt-optimizer)
 - [视频质量检测](https://example.com/quality-checker)
+- **[Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill)** —— 中英双语 skill，把粗糙的想法或过度具体的分镜脚本改写成模型友好的文生视频提示词（Seedance 2.0、Kling、Veo、Hailuo、Wan、Vidu）。判断优先；单个 SKILL.md；MIT。
 
 ### 浏览器插件
 - [AI视频助手](https://example.com/browser-extension)
