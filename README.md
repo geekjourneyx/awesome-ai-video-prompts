@@ -109,6 +109,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Online Tools
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
+- [ImagineClip](https://imagineclip.com) - AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
 
 ### Browser Extensions
 - [AI Video Assistant](https://example.com/browser-extension)
