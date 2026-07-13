@@ -109,6 +109,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Online Tools
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
+- [Vox Director](https://github.com/Alisa0808/vox-director) — Turn one topic into a finished Vox-style paper-collage explainer/ad video (script → collage art → motion → voice → music → captions); open-source agent skill for Claude Code, Codex & any SKILL.md agent.
 
 ### Browser Extensions
 - [AI Video Assistant](https://example.com/browser-extension)
