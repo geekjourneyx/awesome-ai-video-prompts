@@ -109,6 +109,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Online Tools
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
+- **[Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter)** — open agentic prompt-expansion harness (schema → validate → bounded repair → dialect render) for image/video model dialects (H3, Seedance, Seedream, Qwen-Image). Expand ≠ generate. Apache-2.0. [Demo](https://waynejin0918.github.io/Omni-Rewriter/).
 
 ### Browser Extensions
 - [AI Video Assistant](https://example.com/browser-extension)

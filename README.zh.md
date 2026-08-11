@@ -109,6 +109,7 @@ AI视频提示词是用于指导AI模型生成高质量视频内容的文本指�
 ### 在线工具
 - [提示词优化器](https://example.com/prompt-optimizer)
 - [视频质量检测](https://example.com/quality-checker)
+- **[Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter)** —— 面向图像/视频生成的开源 Prompt Expansion Harness（Schema → 确定性校验 → 有界修复 → 方言渲染；含 H3 / Seedance / Seedream / Qwen-Image）。扩写 ≠ 生成。Apache-2.0。[演示](https://waynejin0918.github.io/Omni-Rewriter/).
 
 ### 浏览器插件
 - [AI视频助手](https://example.com/browser-extension)
