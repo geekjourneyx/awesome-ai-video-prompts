@@ -75,6 +75,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 - [Runway ML Guide](docs/guides/runway-guide.md)
 - [Pika Labs Guide](docs/guides/pika-guide.md)
 - [Kling AI Guide](docs/guides/kling-guide.md)
+- [Seele TV](https://seele.tv) - Controllable AI video studio for reference-led cinematic sequences, shot-level camera direction, and scene continuity.
 
 ## 🔊 Audio & Visual Sync
 
