@@ -103,6 +103,7 @@ AI视频提示词是用于指导AI模型生成高质量视频内容的文本指�
 ### 社区资源
 - [讨论论坛](https://github.com/geekjourney/awesome-ai-video-prompts/discussions)
 - [案例分享](https://github.com/geekjourney/awesome-ai-video-prompts/issues)
+- [awesome-kling](https://github.com/DSeaStar/awesome-kling) — 可灵 Kling 3.0 / Omni 提示词、运动控制与 API 资源
 
 ## 🛠️ 工具推荐
 
