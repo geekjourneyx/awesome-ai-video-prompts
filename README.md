@@ -103,6 +103,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Community Resources
 - [Discussion Forum](https://github.com/geekjourney/awesome-ai-video-prompts/discussions)
 - [Case Sharing](https://github.com/geekjourney/awesome-ai-video-prompts/issues)
+- [awesome-kling](https://github.com/DSeaStar/awesome-kling) — Kling 3.0 / Omni prompts, Motion Control, and API resources
 
 ## 🛠️ Tools & Utilities
 
