@@ -101,6 +101,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 - [Advanced Techniques](docs/guides/advanced-techniques.md)
 
 ### Community Resources
+- [vflow](https://vflow.live/?utm_source=github&utm_medium=referral&utm_campaign=free_traffic_20261020&utm_content=directory_video_prompts_v1) - Free AI video prompt reference library pairing previews with source text and creator links, with camera movement and lighting filters. No account required; examples are references, not reproduction guarantees.
 - [Discussion Forum](https://github.com/geekjourney/awesome-ai-video-prompts/discussions)
 - [Case Sharing](https://github.com/geekjourney/awesome-ai-video-prompts/issues)
 
