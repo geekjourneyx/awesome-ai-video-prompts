@@ -107,6 +107,7 @@ AI视频提示词是用于指导AI模型生成高质量视频内容的文本指�
 ## 🛠️ 工具推荐
 
 ### 在线工具
+- [AlphaDrama](https://www.getalphadrama.com) — 多智能体 AI 短剧与爆款视频创作平台：剧本分集改编、角色提示词一致性锁定、运镜提示词生成与竖屏视频全自动拼接。
 - [提示词优化器](https://example.com/prompt-optimizer)
 - [视频质量检测](https://example.com/quality-checker)
 
