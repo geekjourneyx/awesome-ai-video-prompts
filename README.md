@@ -107,6 +107,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ## 🛠️ Tools & Utilities
 
 ### Online Tools
+- [AlphaDrama](https://www.getalphadrama.com) — Multi-agent AI platform for automated episodic short drama production: script beat adaptation, consistent character prompt anchors, camera movement prompt generation, and vertical video stitching.
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
 
