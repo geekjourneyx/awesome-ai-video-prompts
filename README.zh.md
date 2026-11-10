@@ -103,6 +103,7 @@ AI视频提示词是用于指导AI模型生成高质量视频内容的文本指�
 ### 社区资源
 - [讨论论坛](https://github.com/geekjourney/awesome-ai-video-prompts/discussions)
 - [案例分享](https://github.com/geekjourney/awesome-ai-video-prompts/issues)
+- [Claude Fable 5.2 视频作品精选](https://github.com/mofa-si/awesome-fable-5-2-videos) - 100 个用 Claude Fable 5.2 做的视频（代码写出的短片、3D 场景、游戏），每条有作者署名，24 条附原文提示词
 
 ## 🛠️ 工具推荐
 
