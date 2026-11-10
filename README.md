@@ -103,6 +103,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Community Resources
 - [Discussion Forum](https://github.com/geekjourney/awesome-ai-video-prompts/discussions)
 - [Case Sharing](https://github.com/geekjourney/awesome-ai-video-prompts/issues)
+- [Awesome Claude Fable 5.2 Videos](https://github.com/mofa-si/awesome-fable-5-2-videos) - 100 videos made with Claude Fable 5.2 (code-written films, 3D scenes, games), each credited to its creator, 24 with the verbatim prompt
 
 ## 🛠️ Tools & Utilities
 
