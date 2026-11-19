@@ -107,6 +107,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ## 🛠️ Tools & Utilities
 
 ### Online Tools
+- [HotDance AI](https://hotdanceai.com/) — Browser-based AI dance video generator powered by Kling Motion Control + Seedance 2.0 Mini/2.5 with 0-credit free character preview and pay-as-you-go one-time packs (no subscription)
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
 
