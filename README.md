@@ -109,6 +109,8 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ### Online Tools
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
+- [Tiny Desk AI](https://tinydeskai.info/) - Turn 1 photo or up to 5 friend photos into a 9:16 watermark-free Tiny Desk concert video ($9.99 one-time, no subscription)
+- [Migos AI Video](https://migos-aivideo.com/) - Merge two photos into the viral Hotel Lobby orange COLORS booth rap duet ($3.99 Flash Hook Pass, credits never expire)
 
 ### Browser Extensions
 - [AI Video Assistant](https://example.com/browser-extension)
