@@ -107,6 +107,7 @@ AI video prompts are text instructions used to guide AI models in generating hig
 ## 🛠️ Tools & Utilities
 
 ### Online Tools
+- [Camera Prompt QuickCheck](https://287523023qq-hue.github.io/ai-cinematic-skills/#quickcheck) ([GitHub](https://github.com/287523023qq-hue/camera-prompt-quickcheck)) - Free deterministic pre-flight linter for AI video prompts (Runway, Kling, Sora, Veo) catching dolly-vs-zoom and drift bugs in 5ms.
 - [Prompt Optimizer](https://example.com/prompt-optimizer)
 - [Video Quality Checker](https://example.com/quality-checker)
 
